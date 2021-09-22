@@ -1,4 +1,4 @@
-#IJCAI-2021 HITA-Graph
+# IJCAI-2021 HITA-Graph
 
 Paper resources for 《Knowledge-Aware Dialogue Generation via Hierarchical Infobox Accessing and Infobox-Dialogue Interaction Graph Network》. IJCAI 2021.
 
@@ -9,7 +9,7 @@ The released version may have some minor differences.
 Please download it from [Google Drive](https://drive.google.com/file/d/1-sxVKXHd5y68kPJQSAyxESzN3lHuXezn/view?usp=sharing)
 
 # Requirements
-```shell script
+```
 Python=3.6
 PyTorch==1.4.0
 TorchText==0.6.0
