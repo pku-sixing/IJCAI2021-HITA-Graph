@@ -8,7 +8,7 @@ The released version may have some minor differences.
 
 Please download it from [Google Drive](https://drive.google.com/file/d/1-sxVKXHd5y68kPJQSAyxESzN3lHuXezn/view?usp=sharing)
 
-Note:  One file, `filed_key.txt.char`, was missed in the above dataset link. We have updated the code (see `dataset/table_dialogue_res/field_key.txt.char`). Please pull the project.
+Note:  Four files, `filed_key.txt.char....`, were missed in the above dataset link. We have updated the code (see `dataset/table_dialogue_res/...`). Please pull the project.
 # Requirements
 ```
 Python=3.6
